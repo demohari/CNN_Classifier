@@ -132,3 +132,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+*.jpg
+artifacts/data_ingestion/data.zip
