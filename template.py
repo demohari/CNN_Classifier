@@ -7,7 +7,7 @@ logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s:')
 package_name = "DeepClassifier"
 
 list_of_files = [
-    ".github/workflows/.gitkeep"
+    ".github/workflows/.gitkeep",
     f"src/{package_name}/__init__.py",
     f"src/{package_name}/components/__init__.py",
     f"src/{package_name}/utils/__init__.py",
