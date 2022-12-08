@@ -17,3 +17,5 @@ deep Classifier project
 10. Update the dvc.yaml
 11. run "dvc repro" for running all the stages in pipeline
 ```
+
+[![1670537026177](image/README/1670537026177.png)]()
